@@ -7,4 +7,7 @@
 
 - Python
 - Django
+- PHP
+- Mysql
+- Shell script
 - Javascript-ES6
