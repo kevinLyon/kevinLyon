@@ -1,6 +1,7 @@
-
-[![kevin GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinlyon&show_icons=true&theme=radical)](https://github.com/kevinLyon)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlyon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinlyon&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlyon&layout=compact&theme=radical" height="150">
+</div>
 
 
 <div>
