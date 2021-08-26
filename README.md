@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://github.com/kevinLyon/kevinLyon/blob/main/Black%20Mask.png">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=kevinlyon&show_icons=true&theme=radical" height="150">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlyon&layout=compact&theme=radical" height="150">
