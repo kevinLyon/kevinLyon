@@ -1,5 +1,6 @@
 <div>
   <h1>SecureSource</h1>
+  <img src="https://github.com/kevinLyon/kevinLyon/blob/main/banner.png">
 </div>
 
 <div name="learning path">
