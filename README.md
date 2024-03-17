@@ -1,26 +1,46 @@
-<div align="center">
-  <img src="https://github.com/kevinLyon/kevinLyon/blob/main/Black%20Mask.png">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=kevinlyon&show_icons=true&theme=radical" height="150">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlyon&layout=compact&theme=radical" height="150">
-  </div>
-
-
-  <div>
-    <h4>Social Media</h4>
-    <a href="https://www.linkedin.com/in/kevin-lyon-61850b1b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-    <a href="https://www.youtube.com/c/BlackMaskDeveloper"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  </div>
-
-  ### Linguagens
-  <div>
-    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  </div>
+<div>
+  <h1>SecureSource</h1>
 </div>
+
+<div name="learning path">
+  <h2>Learning path</h2>
+
+  <ul>
+    <li><a href="https://www.hackers-arise.com/getting-started">Basic start</a></li>
+  </ul>
+</div>
+
+<!-- series -->
+<div name="series">
+  <h2>Series</h2>
+<!-- links -->  
+ <ul>
+   <li><a href="https://redecanais.zip/watch.php?vid=1d81deceb">Mr.Robot</a></li>
+ </ul>
+ 
+</div>
+
+<!-- documentaries -->
+<div name="documentaries">
+  <h2>Documentaries</h2>
+  
+<!-- links -->
+  <ul>
+    <li><a href="https://archive.org/details/zero.-days.-2016.720p">Zero days (2016)</a></li>
+    <li><a href="https://youtu.be/pJu1dAK8SO0?si=nuTeqhKBlVwFp37v">A Origem dos Hackers</a></li>
+  </ul>
+
+</div>
+
+<!-- films -->
+<div name="films">
+  <h2>Films</h2>
+
+  <!-- links -->
+  <ul>
+    <li><a href="https://www.primevideo.com/-/pt/detail/Invasores---Nenhum-Sistema-Est%C3%A1-Salvo/0RMPF3BL6TCIR1VPHKJKSBS17I">Invasores - Nenhum Sistema Está Salvo</a></li>
+  </ul>
+  
+</div>
+
+> incomplet
