@@ -8,6 +8,7 @@
 
   <ul>
     <li><a href="https://www.hackers-arise.com/getting-started">Basic start</a></li>
+    <li><a href="https://tryhackme.com/paths">Learning paths Tryhackme</a> </li>
   </ul>
 </div>
 
@@ -42,6 +43,15 @@
     <li><a href="https://www.primevideo.com/-/pt/detail/Invasores---Nenhum-Sistema-Est%C3%A1-Salvo/0RMPF3BL6TCIR1VPHKJKSBS17I">Invasores - Nenhum Sistema Está Salvo</a></li>
   </ul>
   
+</div>
+
+<!-- books -->
+<div name="book">
+  <h2>Book</h2>
+  
+  <ul>
+    <li><a href="https://docs.google.com/document/d/17R67zmmJw46yMGYpqt9WOjdo4mLCBjNQbmCNcQuLDlc/edit?pli=1">Entre a luz e as trevas</a> </li>
+  </ul>
 </div>
 
 > incomplet
