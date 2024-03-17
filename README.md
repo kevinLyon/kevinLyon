@@ -41,6 +41,8 @@
   <!-- links -->
   <ul>
     <li><a href="https://www.primevideo.com/-/pt/detail/Invasores---Nenhum-Sistema-Est%C3%A1-Salvo/0RMPF3BL6TCIR1VPHKJKSBS17I">Invasores - Nenhum Sistema Está Salvo</a></li>
+    <li><a href="https://redecanais.zip/snowden-heroi-ou-traidor-legendado-2016-1080p_653ffaab0.html">Invasores - Nenhum Sistema Está Salvo</a></li>
+    <li><a href="https://redecanais.zip/o-jogo-da-imitacao-dublado-2014-1080p_c051429e4.html">Invasores - Nenhum Sistema Está Salvo</a></li>
   </ul>
   
 </div>
