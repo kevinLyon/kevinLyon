@@ -3,13 +3,23 @@
   <img src="https://github.com/kevinLyon/kevinLyon/blob/main/banner.png">
 </div>
 
-<div name="learning path">
-  <h2>Learning path</h2>
-
+<div name="Hub">
+  <h2>Hub</h2>
+  
+  <h5>Learning path</h5>
   <ul>
-    <li><a href="https://www.hackers-arise.com/getting-started">Basic start</a></li>
+    <li><a href="https://www.hackers-arise.com/getting-started">Learning paths HackerArise</a></li>
     <li><a href="https://tryhackme.com/paths">Learning paths Tryhackme</a> </li>
   </ul>
+
+  <h5>Malware development</h5>
+    <ul>
+    <li><a href="https://maldevacademy.com/">Maldev academy</a></li>
+    <li><a href="https://institute.sektor7.net/red-team-operator-malware-development-essentials">Malware Development Essentials ( sektor7 ) </a> </li>
+    <li><a href="https://institute.sektor7.net/rto-maldev-intermediate">Malware Development Intermediate ( sektor7 ) </a> </li>
+    <li><a href="https://institute.sektor7.net/rto-maldev-adv1">Malware Development Advanced ( sektor7 ) </a> </li>
+  </ul>
+  
 </div>
 
 <!-- series -->
