@@ -66,4 +66,15 @@
   </ul>
 </div>
 
+<!-- books -->
+<div name="certificates">
+  <h2>certificates</h2>
+  
+  <ul>
+    <li><a href="https://www.offsec.com/courses/pen-200/">( OSCP ) PEN-200</a> </li>
+    <li><a href="https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/">( EC-COUNCIL ) CEH</a> </li>
+  </ul>
+</div>
+
 > incomplet
+> <br>Note: i'm not sponsored
