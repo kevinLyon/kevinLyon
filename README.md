@@ -13,11 +13,16 @@
   </ul>
 
   <h5>Malware development</h5>
-    <ul>
+  <ul>
     <li><a href="https://maldevacademy.com/">Maldev academy</a></li>
     <li><a href="https://institute.sektor7.net/red-team-operator-malware-development-essentials">Malware Development Essentials ( sektor7 ) </a> </li>
     <li><a href="https://institute.sektor7.net/rto-maldev-intermediate">Malware Development Intermediate ( sektor7 ) </a> </li>
     <li><a href="https://institute.sektor7.net/rto-maldev-adv1">Malware Development Advanced ( sektor7 ) </a> </li>
+  </ul>
+
+  <h5>SQL Injection</h5>
+  <ul>
+    <li><a href="https://youtube.com/playlist?list=PLuyTk2_mYISLaZC4fVqDuW_hOk0dd5rlf&si=lQP8_Xbuwe8pjHpD">SQLI Injection ( Rana Khalil )</a></li>
   </ul>
   
 </div>
