@@ -45,6 +45,7 @@
   <ul>
     <li><a href="https://archive.org/details/zero.-days.-2016.720p">Zero days (2016)</a></li>
     <li><a href="https://youtu.be/pJu1dAK8SO0?si=nuTeqhKBlVwFp37v">A Origem dos Hackers</a></li>
+    <li><a href="https://vimeo.com/369616578">Carbanak complet(jackpotting attack)</a></li>
   </ul>
 
 </div>
